@@ -1,0 +1,8 @@
+{
+    "model_filepath": "YOUR_USERNAME/YOUR_DATA_COLLECTION_NAME/model.pkl",
+    "model_origin_commit_SHA": "...",
+    "model_origin_commit_msg": "...",
+    "model_origin_repo": "...",
+    "model_uploaded_utc": "2020-09-16 17:10:58.454731",
+    "model_md5_hash": "..."
+}
